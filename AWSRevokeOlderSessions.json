@@ -1,0 +1,1 @@
+{"Version": "2012-10-17", "Statement": [{"Action": ["*"], "Resource": ["*"], "Effect": "Deny", "Condition": {"DateLessThan": {"aws:TokenIssueTime": "2019-05-21T15:10:26.085Z"}}}]}
